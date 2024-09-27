@@ -13,3 +13,5 @@ Okay, from the above line starts this edits i've tried in this branch.
 i like it so much that i want to take it to the master branch.
 
 
+--------------------- branch2 ----------------------
+well, from previous line starts branch2. i'm adding some very cool features here :p
