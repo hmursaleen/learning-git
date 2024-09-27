@@ -1,0 +1,5 @@
+This text file is opened in purpose of learning git.
+
+from time to time i'm gonna change this file, perform git operations, and see how it goes.
+
+This and above texts were written before opening local git repo.
