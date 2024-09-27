@@ -5,3 +5,11 @@ from time to time i'm gonna change this file, perform git operations, and see ho
 This and above texts were written before opening local git repo.
 
 This is an extra line i'm writing to try going back to previous commit.
+
+
+------------- try_something branch -----------------
+
+Okay, from the above line starts this edits i've tried in this branch.
+i like it so much that i want to take it to the master branch.
+
+
